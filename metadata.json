@@ -1,0 +1,8 @@
+{
+  "name": "Kingsley Style AI",
+  "description": "A modern fashion e-commerce experience featuring an AI Personal Stylist powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
